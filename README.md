@@ -1,7 +1,7 @@
 # Práctica número 4 Minería y Calidad de Datos
 ## Repositorio con los archivos necesarios para la entrega
 
-##Disclaimer
+## Disclaimer
 No ejecutar el código de despliegue en un ambiente de ejecución local, ya que este puede suponer riesgo en la seguridad en los datos debido a las altas vulnerabilidades de la librería streamlit y localtunnel
 
 ### ¿Qué es este repositorio?
