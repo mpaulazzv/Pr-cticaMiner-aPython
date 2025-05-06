@@ -4,6 +4,11 @@
 ## Disclaimer
 No ejecutar el código de despliegue en un ambiente de ejecución local, ya que este puede suponer riesgo en la seguridad en los datos debido a las altas vulnerabilidades de la librería streamlit y localtunnel
 
+### Integrantes del equipo:
++ Juan Manuel Volkmar Padierna
++ Maria Paula Florez Vargas 
++ Carlos Alfredo Bravo Parlione
+
 ### ¿Qué es este repositorio?
 Este repositorio contiene los archivos necesarios para realizar la entrega de la práctica número 4 de la materia de analítica de datos, entre estos están
 + Jupyter notebook de calidad de datos
